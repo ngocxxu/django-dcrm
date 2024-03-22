@@ -67,7 +67,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "customerTable",
         "USER": "root",
-        "PASSWORD": "admin",
+        "PASSWORD": "Ngocquach97",
         "HOST": "localhost",
         "PORT": "3306",
     }
